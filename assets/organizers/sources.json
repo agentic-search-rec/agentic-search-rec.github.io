@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Yongqi Li",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "homepage": "https://liyongqi67.github.io/",
+    "portrait": "assets/organizers/yongqi-li.webp",
+    "source_page": "https://liyongqi67.github.io/",
+    "source_image": "https://liyongqi67.github.io/images/profile2.jpg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 600,
+    "web_height": 671,
+    "web_bytes": 20528,
+    "source_file": {
+      "width": 3840,
+      "height": 4299,
+      "bytes": 2315273,
+      "sha256": "0c041c66938082ac3e49667c244d37bc0bf5a18692ee0699dc7e58857769c210"
+    }
+  },
+  {
+    "name": "Hongru Cai",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "homepage": "https://hongrucai.github.io/",
+    "portrait": "assets/organizers/hongru-cai.webp",
+    "source_page": "https://hongrucai.github.io/",
+    "source_image": "https://hongrucai.github.io/images/avatar.webp",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_width": 256,
+    "web_height": 256,
+    "web_bytes": 13966,
+    "source_file": {
+      "width": 256,
+      "height": 256,
+      "bytes": 13966,
+      "sha256": "1cf9b6798bab8739777a4de9399c474a4e9e043887426a653045ce4a6e1ef357"
+    }
+  },
+  {
+    "name": "Xinyu Lin",
+    "affiliation": "National University of Singapore",
+    "homepage": "https://linxyhaha.github.io/",
+    "portrait": "assets/organizers/xinyu-lin.webp",
+    "source_page": "https://linxyhaha.github.io/",
+    "source_image": "https://linxyhaha.github.io/images/xinyu-1.jpeg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 600,
+    "web_height": 657,
+    "web_bytes": 31038,
+    "source_file": {
+      "width": 1589,
+      "height": 1741,
+      "bytes": 353025,
+      "sha256": "9b3ba338e79f0db7bfe6041639b569322e8762f70bf78f29a4512089ded5dd38"
+    }
+  },
+  {
+    "name": "Jujia Zhao",
+    "affiliation": "Leiden University",
+    "homepage": "https://polaris-jz.github.io/",
+    "portrait": "assets/organizers/jujia-zhao.webp",
+    "source_page": "https://polaris-jz.github.io/",
+    "source_image": "https://polaris-jz.github.io/images/photo.jpeg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 600,
+    "web_height": 586,
+    "web_bytes": 61538,
+    "source_file": {
+      "width": 2904,
+      "height": 2839,
+      "bytes": 1466443,
+      "sha256": "046fe5860a790622f60a97a9c386892ba002c245e43f3d930e9accbd6238e30e"
+    }
+  },
+  {
+    "name": "Yubao Tang",
+    "affiliation": "University of Amsterdam",
+    "homepage": "https://yubaotang11.github.io/",
+    "portrait": "assets/organizers/yubao-tang.jpg",
+    "source_page": "https://grit-genir.github.io/workshop-sigir-ap-2026/",
+    "source_image": "https://grit-genir.github.io/workshop-sigir-ap-2026/img/yubao-tang.jpg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the official GRIT 2026 workshop organizer list; personal homepage uses a cat avatar.",
+    "web_width": 496,
+    "web_height": 502,
+    "web_bytes": 46334,
+    "source_file": {
+      "width": 496,
+      "height": 502,
+      "bytes": 46334,
+      "sha256": "5d7c9db7c583e9cdc6d30d5185262ba847d9c509f39abd318d0c8002c06a484c"
+    }
+  },
+  {
+    "name": "Yujia Zhou",
+    "affiliation": "Tsinghua University",
+    "homepage": "https://www.zhouyujia.cn/",
+    "portrait": "assets/organizers/yujia-zhou.webp",
+    "source_page": "https://irmeetsllm.github.io/",
+    "source_image": "https://irmeetsllm.github.io/assets/img/zhouyujia.jpg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source photograph from the official IR Meets LLMs 2024 workshop organizer list. Current affiliation follows the proposal and current personal homepage; current personal homepage portrait is a stylized illustration.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 600,
+    "web_height": 600,
+    "web_bytes": 12686,
+    "source_file": {
+      "width": 2824,
+      "height": 2823,
+      "bytes": 1528157,
+      "sha256": "4d7dcf0a53cc23d0019e1694a0ea7facd7a5a0714a071f979f56f473d506187b"
+    }
+  },
+  {
+    "name": "Wenjie Wang",
+    "affiliation": "University of Science and Technology of China",
+    "homepage": "https://wenjiewwj.github.io/",
+    "portrait": "assets/organizers/wenjie-wang.webp",
+    "source_page": "https://wenjiewwj.github.io/",
+    "source_image": "https://wenjiewwj.github.io/images/wenjie-1.jpeg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 561,
+    "web_height": 700,
+    "web_bytes": 31566,
+    "source_file": {
+      "width": 1775,
+      "height": 2215,
+      "bytes": 1640301,
+      "sha256": "e3e18723a68b39a678d459ff824a106cb6fd59b80193e461b79c831c07d75bc2"
+    }
+  },
+  {
+    "name": "Wenqi Fan",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "homepage": "https://wenqifan03.github.io/",
+    "portrait": "assets/organizers/wenqi-fan.webp",
+    "source_page": "https://wenqifan03.github.io/",
+    "source_image": "https://wenqifan03.github.io/images/Wenqi-2.jpg",
+    "retrieved": "2026-10-10",
+    "note": "Unmodified source image from the organizer personal homepage.",
+    "web_note": "Resized and encoded as WebP for delivery; original framing and appearance preserved.",
+    "web_width": 600,
+    "web_height": 672,
+    "web_bytes": 45812,
+    "source_file": {
+      "width": 930,
+      "height": 1041,
+      "bytes": 235070,
+      "sha256": "6fa0c80963244b145bafb5d02dd108649d25e44fe31cc3b344bda4cfaed72acf"
+    }
+  }
+]

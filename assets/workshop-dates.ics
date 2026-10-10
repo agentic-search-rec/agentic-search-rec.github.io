@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Search and Recommendation Workshop//WSDM 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Search and Recommendation Workshop (proposed)
+BEGIN:VEVENT
+UID:cfp-2027@agentic-search-rec.github.io
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Planned CFP release — Search and Recommendation Workshop
+DESCRIPTION:Proposed WSDM 2027 workshop. CFP release planned for October 2
+ 5.
+STATUS:TENTATIVE
+URL:https://agentic-search-rec.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:submission-2027@agentic-search-rec.github.io
+DTSTAMP:20261010T000000Z
+DTSTART:20261201T115900Z
+DURATION:PT1M
+SUMMARY:Planned paper deadline — Search and Recommendation Workshop
+DESCRIPTION:Deadline: November 30 2026 at 23:59 AoE (UTC-12). Equivalent t
+ o December 1 at 11:59 UTC. Proposed workshop\; confirm the deadline on th
+ e website.
+STATUS:TENTATIVE
+URL:https://agentic-search-rec.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:notification-2027@agentic-search-rec.github.io
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Planned author notification — Search and Recommendation Workshop
+DESCRIPTION:Author notification for the proposed WSDM 2027 workshop.
+STATUS:TENTATIVE
+URL:https://agentic-search-rec.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:workshop-2027@agentic-search-rec.github.io
+DTSTAMP:20261010T000000Z
+DTSTART:20270219T010000Z
+DTEND:20270219T043000Z
+SUMMARY:Proposed workshop — Search and Recommendation in the Agentic AI 
+ Era
+DESCRIPTION:Hong Kong time: February 19 2027 at 09:00-12:30 (UTC+8). Propo
+ sed half-day workshop with keynote talks poster sessions and a panel. Con
+ firm the final program on the website.
+STATUS:TENTATIVE
+URL:https://agentic-search-rec.github.io/
+LOCATION:Hong Kong
+END:VEVENT
+END:VCALENDAR
